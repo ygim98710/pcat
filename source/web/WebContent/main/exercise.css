@@ -1,0 +1,79 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+#video{
+	display: inline-table;
+	margin-bottom:50px;
+	margin-left:10px;
+	font-size:15px;
+	margin-top:-80px;
+}
+
+#webcam{
+	margin-left:10px;
+	top:30px;
+	margin-bottom:140px;
+	
+}
+#accuracy{
+	font-family:'Arial';
+    font-size:80px;
+	position:relative;
+	display: inline-table;
+	margin-left:76%;
+	bottom:430px;
+}
+
+#header{
+	margin-left: 2%;
+    margin-right: 2%;
+}
+
+body{
+    min-width: 1300px;
+    color:#444;
+    margin-top: 30px;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+    max-height:400px;
+}
+
+
+#header_logo{
+    
+    display: inline-table;
+    font-size:30px;
+}
+
+#header_left{
+    margin-left : 8px;
+    padding: 3px;
+    font-size:25px;
+    /*background-color: blue;*/
+    display: inline-table;
+}
+
+#header_right{
+    /*background-color: blue;*/
+    display: inline-table;
+    float: right;
+    text-align: center;
+    margin-right: 10px;
+    margin-top:12px;
+    padding: 3px;
+
+}
+
+hr{
+    margin-top: 20px;
+}
+
+#main{
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+a{
+    text-decoration: none;
+}
